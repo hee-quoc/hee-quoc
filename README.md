@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hee from the MARS</h1>
 <h3 align="center">Nerd AI healthcare Coder (Biomedical Engineer/Graphic Designer Potato)</h3>
 <img align="right" alt="Designing and Coding" width="400" src="https://cdn.dribbble.com/userupload/14324850/file/original-61d148c6f8ad77365df8d481818678a2.gif"
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hee-quoc&label=Profile%20views&color=0e75b6&style=flat" alt="hee-quoc" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hee-quoc" alt="hee-quoc" /></a> </p>
