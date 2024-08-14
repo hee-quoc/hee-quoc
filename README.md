@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Hee from the MARS</h1>
-<h3 align="center">😼Nerd AI healthcare Coder|Biomedical Engineer|Graphic Designer Potato😼</h3>
+<h3 align="center">😼Nerd AI healthcare Coder | Biomedical Engineer | Graphic Designer Potato😼</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxyNnVieDdjeXB0bnZqc3VpazFhaDZ2M2N2aGJweWw5ZDFmdWRvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yLqhIS6YSREmH12tTi/giphy.webp">
 
 
