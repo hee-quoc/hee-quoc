@@ -8,6 +8,7 @@
 <h3 align="center">😼Nerd AI healthcare Coder | Biomedical Engineer | Graphic Designer Potato😼</h3>
 <p align="left"> <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxyNnVieDdjeXB0bnZqc3VpazFhaDZ2M2N2aGJweWw5ZDFmdWRvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yLqhIS6YSREmH12tTi/giphy.webp"></p>
 
+<p align="center"> <img width="140" src="https://media3.giphy.com/media/q0vHNExWIUGSBApPC4/200.webp"  alt="GitHub Profile Trophy"/></p>
 
 - 🔭 I’m currently working on **IMACS from IVS JSC Company** as **AI Engineer Intern**
 
@@ -23,7 +24,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hee-quoc&label=Profile%20views&color=0e75b6&style=flat" alt="hee-quoc" /> </p>
 
 <div align="center">
-  <img width="140" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm01bG9sN2ZxeHg1em5xM3kzOGM3NjlzMzUyMjZ3ZmQxdzR6MTNkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DHVS1rVGuumLwGiuHu/giphy.webp"  alt="GitHub Profile Trophy"/>
+  
   <h2 align="center">GitHub Profile Potato</h2>
   <p align="center">🏆 Just for fun, becuase I don't have much 🏆</p>
 </div>
