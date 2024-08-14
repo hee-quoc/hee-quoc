@@ -1,12 +1,12 @@
 <div align="center">
   <a href="https://hynguyenn.cargo.site">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhlMDNkbzJlN3lubG84OHcybGF1Y216OXFzNDgwajB2ajlienExOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8MNmcksbeT6dRGP6Ev/giphy.gif" alt="MasterHead">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhlMDNkbzJlN3lubG84OHcybGF1Y216OXFzNDgwajB2ajlienExOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8MNmcksbeT6dRGP6Ev/giphy.webp" alt="MasterHead">
   </a>
 </div>
 
 <h1 align="center">Hi 👋, I'm Hee from Vietnam</h1>
 <h3 align="center">😼Nerd AI healthcare Coder | Biomedical Engineer | Graphic Designer Potato😼</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxyNnVieDdjeXB0bnZqc3VpazFhaDZ2M2N2aGJweWw5ZDFmdWRvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yLqhIS6YSREmH12tTi/giphy.webp">
+<p align="left"> <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxyNnVieDdjeXB0bnZqc3VpazFhaDZ2M2N2aGJweWw5ZDFmdWRvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yLqhIS6YSREmH12tTi/giphy.webp"></p>
 
 
 - 🔭 I’m currently working on **IMACS from IVS JSC Company** as **AI Engineer Intern**
@@ -20,10 +20,14 @@
 - ⚡ Fun fact: **I want to combine between Art and Science**
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hee-quoc&label=Profile%20views&color=0e75b6&style=flat" alt="hee-quoc" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hee-quoc&label=Profile%20views&color=0e75b6&style=flat" alt="hee-quoc" /> </p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hee-quoc&theme=radical" alt="hee-quoc" /></a> </p>
+<div align="center">
+  <img width="140" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm01bG9sN2ZxeHg1em5xM3kzOGM3NjlzMzUyMjZ3ZmQxdzR6MTNkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DHVS1rVGuumLwGiuHu/giphy.webp"  alt="GitHub Profile Trophy"/>
+  <h2 align="center">GitHub Profile Potato</h2>
+  <p align="center">🏆 Just for fun, becuase I don't have much 🏆</p>
+</div>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hee-quoc&theme=radical" alt="hee-quoc" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
