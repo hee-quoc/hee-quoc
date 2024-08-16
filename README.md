@@ -18,7 +18,7 @@
 
 - 📫 How to reach me: **nghy2403@gmail.com**
 
-- ⚡ Fun fact: **I want to combine between Art and Science**
+- ⚡ Fun fact: **I want to blend between Art and Science**
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hee-quoc&label=Profile%20views&color=0e75b6&style=flat" alt="hee-quoc" /> </p>
